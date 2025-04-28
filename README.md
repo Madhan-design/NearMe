@@ -170,22 +170,15 @@ society.html
 
 
 ## OUTPUT
-![output](./screenshots/put1.png)
-
-![output](./screenshots/put2.png)
-
-![output](./screenshots/put3.png)
-
-![output](./screenshots/put4.png)
-
-![output](./screenshots/put5.png)
-
-![output](./screenshots/put6.png)
-
-
-
+![Screenshot 2025-04-28 204535](https://github.com/user-attachments/assets/00c81178-7add-428a-8bb9-2e272d6c1624)
+![Screenshot 2025-04-28 204606](https://github.com/user-attachments/assets/64f7288b-bf78-4691-92e3-13692be06572)
+![Screenshot 2025-04-28 204647](https://github.com/user-attachments/assets/e604fd95-2052-47da-be29-9e108c8d46fe)
+![Screenshot 2025-04-28 204712](https://github.com/user-attachments/assets/b3902b44-29c1-42ea-bc9c-7e1f710791a1)
+![Screenshot 2025-04-28 204740](https://github.com/user-attachments/assets/0787fe11-b58d-4fe9-80e8-cbc387edcfdc)
+![Screenshot 2025-04-28 204806](https://github.com/user-attachments/assets/5da4df68-9b25-49cf-8c4e-571305f4aa3e)
 ## HTML VALIDATOR
-![HTML VALIDATOR](./screenshots/put7.png)
+![Screenshot 2025-04-28 204844](https://github.com/user-attachments/assets/117dbbf8-89ec-427a-b63d-2c6505668215)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
